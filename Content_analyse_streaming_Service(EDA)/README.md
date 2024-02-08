@@ -1,8 +1,8 @@
 # Sreaming Service Company
 This tabular dataset consists of listings of all the movies and tv shows available on a Streaming Service, along with details such as cast, directors, ratings, release year, duration, etc.
-Analyze the data and generate insights that could help Netflix  deciding which type of shows/movies to produce and how they can grow the business in different countries
+Analyze the data and generate insights that could help streaming service  deciding which type of shows/movies to produce and how they can grow the business in different countries
 
-## The dataset provided to you consists of a list of all the TV shows/movies available on Netflix:
+## The dataset provided to you consists of a list of all the TV shows/movies available on streaming service company:
 
 * Show_id: Unique ID for every Movie / Tv Show
 * Type: Identifier - A Movie or TV Show
