@@ -17,7 +17,7 @@
 - Utilize a variety of visualization techniques (Distplot, Countplot, Histogram, Boxplot, Heatmaps, Pairplots) for univariate and bivariate analysis.
 - Conduct comprehensive missing value and outlier checks with optional treatment.
 
-<u> **Libraries Used:** </u>
+<u> 🛠 **Libraries Used:** </u>
 - Python, Pandas, Numpy, Matplotlib.pyplot,seaborn.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2. Aerofit Customer Profiling and Analytics
@@ -33,5 +33,5 @@
 - Calculate and interpret marginal and conditional probabilities for actionable insights.
 
 
-<u>**Libraries Used:**</u>
+<u> 🛠 **Libraries Used:**</u>
 - Python, Pandas, Numpy, Matplotlib.pyplot,seaborn, Conditional and Marginal Probability
