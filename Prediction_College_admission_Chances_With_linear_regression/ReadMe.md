@@ -21,35 +21,35 @@ Jamboree, a leading educational service provider, aims to assist students in pre
 
 ## Analysis Steps
 
-### 1. Define Problem Statement and Perform Exploratory Data Analysis (10 Points)
+### 1. Define Problem Statement and Perform Exploratory Data Analysis
 - Clearly define the problem statement based on Jamboree's objective.
 - Perform exploratory data analysis (EDA) to understand the dataset's structure and characteristics.
 
-### 2. Data Preprocessing (10 Points)
+### 2. Data Preprocessing.
 - Check for duplicate values.
 - Address missing values.
 - Treat outliers.
 - Conduct feature engineering for model improvement.
 - Prepare data for modeling.
 
-### 3. Model Building (10 Points)
+### 3. Model Building.
 - Build a Linear Regression model to predict admission probability.
 - Display model coefficients with column names.
 - Experiment with Ridge and Lasso regression for model refinement.
 
-### 4. Testing Assumptions of Linear Regression Model (50 Points)
+### 4. Testing Assumptions of Linear Regression Model 
 - Check for multicollinearity using VIF scores.
 - Verify the mean of residuals is nearly zero.
 - Assess linearity of variables (no pattern in residual plot).
 - Test for homoscedasticity.
 - Validate normality of residuals (bell-shaped curve in residuals distribution, QQ plot alignment).
 
-### 5. Model Performance Evaluation (10 Points)
+### 5. Model Performance Evaluation 
 - Evaluate metrics such as MAE, RMSE, R2, and Adjusted R2.
 - Check both train and test performances.
 - Provide comments on performance measures and suggest model improvements if needed.
 
-### 6. Actionable Insights & Recommendations (10 Points)
+### 6. Actionable Insights & Recommendations 
 - Interpret significance of predictor variables.
 - Suggest additional data sources for potential model improvement.
 - Discuss model implementation in real-world scenarios and potential business benefits.
