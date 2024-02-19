@@ -57,3 +57,24 @@ Identified top-performing and underperforming states based on various metrics.
 
 🛠 **Libraries Used:**
 - Python, Pandas, Numpy, Matplotlib.pyplot,seaborn, Conditional and Marginal Probability
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 5. Jamboree Graduate Admission Analysis and Prediction
+
+**Objective:** Help Jamboree understand important factors in graduate admissions and predict one's chances of admission.
+
+**Key Features:**
+- Import and perform exploratory data analysis (EDA) on the graduate admission dataset.
+- Drop unique row identifiers for model building.
+- Non-graphical and graphical analysis for variable inferences.
+- Check distribution of variables among graduate applicants.
+- Explore relationships between factors affecting graduate admissions.
+- Analyze correlation among independent variables.
+- Implement Linear Regression using Statsmodels library and interpret results.
+- Test assumptions of linear regression, including multicollinearity, residuals, linearity, homoscedasticity, and normality.
+- Model evaluation using MAE, RMSE, R2 score, and Adjusted R2.
+- Provide actionable insights and recommendations.
+
+🛠 **Technologies Used:**
+- Python,pandas, matplotlib, seaborn, statsmodels, scikit-learn,linear Regression, R2, RMSE, MAE, StandardScaler, standardization 
