@@ -78,3 +78,27 @@ Identified top-performing and underperforming states based on various metrics.
 
 🛠 **Technologies Used:**
 - Python,pandas, matplotlib, seaborn, statsmodels, scikit-learn,linear Regression, R2, RMSE, MAE, StandardScaler, standardization 
+
+## 6. Classification Using Logistic Regression (Loan Distribution)
+
+
+**Objective:** Given a set of attributes for an individual, determine if a credit line should be extended to them. If so, what should the repayment terms be in the business recommendations?
+
+
+**Key Features:**
+- Import and perform exploratory data analysis (EDA) on the loan dataset.
+- Drop unique row identifiers for model building.
+- Non-graphical and graphical analysis for variable inferences.
+- Check distribution of variables among loan_status and imputing the null values.
+- Explore relationships between factors like grade, loan amount that affect loan status.
+- Analyze correlation among independent variables.
+- Implement Logistic Regression with hyperparmeter tuning.
+- Preprocssing using one hot encoding and dropping irrelevent features.
+- Test assumptions of Logistic regression, including multicollinearity.
+- Model evaluation using precision, recall, F1-score , Plotting AUC-ROC Curve and Precison_Recall curve
+- used SMOTE method for Handling the imbalance of data
+- Provide actionable insights and recommendations.
+
+
+🛠 **Technologies Used:**
+- Python,pandas, matplotlib, seaborn, scikit-learn,Logistic Regression, Precision, Recall, F1-score, SMOTE, Data Balancing
